@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalBudgetTracker", "PersonalBudgetTracker\PersonalBudgetTracker.csproj", "{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Debug|iPhone.Build.0 = Debug|iPhone
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Release|iPhone.Build.0 = Release|iPhone
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Release|iPhone.Deploy.0 = Release|iPhone
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{84AC8E5C-9550-43D1-8F6A-B4AC134914B3}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E72EBBD5-118A-48AD-925E-3DBB4709CD9D}
+	EndGlobalSection
+EndGlobal
